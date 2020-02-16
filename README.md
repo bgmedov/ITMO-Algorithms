@@ -36,8 +36,8 @@
 ## Лаба 7
 [ДАННЫЕ УДАЛЕНЫ]
 ## Лаба 8
-1. [8A. От списка ребер к матрице смежности, ориентированный граф](https://github.com/leuri397/ITMO-Algorithms/blob/master/1-Sem/Task_8A.cpp)
-2. [8B. Проверка на неориентированность](https://github.com/leuri397/ITMO-Algorithms/blob/master/1-Sem/Task_8B.cpp)
-3. [8C. Проверка на наличие параллельных рёбер, неориентированный граф](https://github.com/leuri397/ITMO-Algorithms/blob/master/1-Sem/Task_8C.cpp)
-4. [8D. Компоненты связности](https://github.com/leuri397/ITMO-Algorithms/blob/master/1-Sem/Task_8D.cpp)
-5. [8E. Кратчайший путь в невзвешенном графе](https://github.com/leuri397/ITMO-Algorithms/blob/master/1-Sem/Task_8E.cpp)
+1. [8A. От списка ребер к матрице смежности, ориентированный граф](https://github.com/leuri397/ITMO-Algorithms/blob/master/2-Sem/Task_8A.cpp)
+2. [8B. Проверка на неориентированность](https://github.com/leuri397/ITMO-Algorithms/blob/master/2-Sem/Task_8B.cpp)
+3. [8C. Проверка на наличие параллельных рёбер, неориентированный граф](https://github.com/leuri397/ITMO-Algorithms/blob/master/2-Sem/Task_8C.cpp)
+4. [8D. Компоненты связности](https://github.com/leuri397/ITMO-Algorithms/blob/master/2-Sem/Task_8D.cpp)
+5. [8E. Кратчайший путь в невзвешенном графе](https://github.com/leuri397/ITMO-Algorithms/blob/master/2-Sem/Task_8E.cpp)
