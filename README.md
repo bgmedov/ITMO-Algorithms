@@ -41,3 +41,5 @@
 3. [8C. Проверка на наличие параллельных рёбер, неориентированный граф](https://github.com/leuri397/ITMO-Algorithms/blob/master/2-Sem/Task_8C.cpp)
 4. [8D. Компоненты связности](https://github.com/leuri397/ITMO-Algorithms/blob/master/2-Sem/Task_8D.cpp)
 5. [8E. Кратчайший путь в невзвешенном графе](https://github.com/leuri397/ITMO-Algorithms/blob/master/2-Sem/Task_8E.cpp)
+6. [8F. Лабиринт](https://github.com/leuri397/ITMO-Algorithms/blob/master/2-Sem/Task_8F.cpp)
+
