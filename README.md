@@ -42,4 +42,12 @@
 4. [8D. Компоненты связности](https://github.com/leuri397/ITMO-Algorithms/blob/master/2-Sem/Task_8D.cpp)
 5. [8E. Кратчайший путь в невзвешенном графе](https://github.com/leuri397/ITMO-Algorithms/blob/master/2-Sem/Task_8E.cpp)
 6. [8F. Лабиринт](https://github.com/leuri397/ITMO-Algorithms/blob/master/2-Sem/Task_8F.cpp)
+## Лаба 9
+1. [9A. Топологическая сортировка](https://github.com/leuri397/ITMO-Algorithms/blob/master/2-Sem/Task_9A.cpp)
+2. [9B. Поиск цикла](https://github.com/leuri397/ITMO-Algorithms/blob/master/2-Sem/Task_9B.cpp)
+3. [9C. Двудольный граф](https://github.com/leuri397/ITMO-Algorithms/blob/master/2-Sem/Task_9C.cpp)
+4. [9D. Конденсация графа](https://github.com/leuri397/ITMO-Algorithms/blob/master/2-Sem/Task_9D.cpp)
+5. [9E. Гамильтонов путь](https://github.com/leuri397/ITMO-Algorithms/blob/master/2-Sem/Task_9E.cpp)
+6. [9F. Игра](https://github.com/leuri397/ITMO-Algorithms/blob/master/2-Sem/Task_9F.cpp)
+
 
